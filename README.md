@@ -35,4 +35,5 @@ Durante o desenvolvimento deste projeto, foram abordados:
 
 ---
 ## ✨ Créditos
-Projeto desenvolvido por Patrícia Falchi, com base no curso de Análise de Dados com SQL (2025), ministrado por Teo Calvo.
+Projeto desenvolvido por Patrícia Falchi, com base no curso de Análise de Dados com SQL (2025), ministrado por [**Teo Calvo**](https://www.linkedin.com/in/teocalvo/).
+
