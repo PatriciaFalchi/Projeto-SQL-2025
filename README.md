@@ -34,5 +34,5 @@ Durante o desenvolvimento deste projeto, foram abordados:
 - **Git e GitHub** para versionamento e publicação
 
 ---
-##✨ Créditos
+## ✨ Créditos
 Projeto desenvolvido por Patrícia Falchi, com base no curso de Análise de Dados com SQL (2025), ministrado por Teo Calvo.
